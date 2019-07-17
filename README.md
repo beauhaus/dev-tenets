@@ -16,3 +16,6 @@ npm run build
 npm run format
 npm run serve
 
+### dynamic routing with react-router
+
+*import {Link} from 'gatsby'*
