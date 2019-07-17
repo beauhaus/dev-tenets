@@ -1,12 +1,12 @@
 {
-  "name": "frontendmasters-gatsby",
+  "name": "dev-tenets-gatsby",
   "private": true,
-  "description": "Bare-bones starter for the Gatsby Frontend Masters workshop.",
+  "description": "Blog for dev notes and articles",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "dev": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/frontendmasters-gatsby"
+    "url": "https://github.com/beauhaus/dev-tenets"
   }
 }
