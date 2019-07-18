@@ -12,7 +12,7 @@ export default () => (
   <StyledRandomNotes>
     <main>
       <h1>RandomNotes</h1>
-      <Link to="/">&larr; HOME</Link>
+      <Link to="/">HOME</Link>
     </main>
     <p>The "Lobotomized Owl Selector"</p>
     <code>* + * {'{ margin-top: 1rem '}</code>

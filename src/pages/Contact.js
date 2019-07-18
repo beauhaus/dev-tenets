@@ -10,7 +10,7 @@ export default () => (
   <StyledContact>
     <main>
       <h1>Feel Free to</h1>
-      <Link to="/">&larr; HOME</Link>
+      <Link to="/">HOME</Link>
     </main>
   </StyledContact>
 );

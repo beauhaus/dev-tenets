@@ -50,3 +50,35 @@ main {
   margin: 2rem auto 4rem;
   max-width: 90vw;
 }
+
+li {
+  list-style-type: none;
+}
+
+summary {
+  list-style-image: none;
+}
+
+summary::-webkit-details-marker {
+  background: none;
+  color: transparent;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+ul {
+  max-width: 90vw;
+  outline: 1px dotted pink;
+  margin: 0 auto;
+  text-align: left;
+}
+test {
+  color: #a81f4d;
+  color: aqua;
+  color: aqua;
+  color: aqua;
+  color: aqua;
+  color: aqua;
+}

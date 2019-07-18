@@ -10,7 +10,7 @@ export default () => (
   <StyledExample>
     <main>
       <h1>This is my EXAMPLE</h1>
-      <Link to="/">&larr; HOME</Link>
+      <Link to="/">HOME</Link>
     </main>
   </StyledExample>
 );
