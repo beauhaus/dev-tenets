@@ -2,15 +2,15 @@ import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
 
-const StyledContact = styled.div`
-  outline: 1px dashed mediumaquamarine;
+const StyledExample = styled.div`
+  outline: 1px dashed blueviolet;
 `;
 
 export default () => (
-  <StyledContact>
+  <StyledExample>
     <main>
-      <h1>Feel Free to</h1>
+      <h1>This is my EXAMPLE</h1>
       <Link to="/">&larr; HOME</Link>
     </main>
-  </StyledContact>
+  </StyledExample>
 );
